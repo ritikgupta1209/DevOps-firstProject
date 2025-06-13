@@ -12,8 +12,8 @@ DOMAIN= ""
 PORT=3000
 STATIC_DIR="./client"
 
-PUBLISHABLE_KEY=""
-SECRET_KEY=""
+PUBLISHABLE_KEY="pk_test_51RZVsmCuUHinkQN2CTDd5w2eTa7jwMG1btyY0DrYIV4UirlezHFFoXhnW2y7Blgduf2YIs4gMlTe2GyrGUEuBg2D00MG6MQVTn"
+SECRET_KEY="sk_test_51RZVsmCuUHinkQN2k9jhvi2TZom9JeZx6RN4KN8mD9vuGAZ3XaMsULfxaq10WMqHoXnioNPiD1eUSnmSGoGlC9n400WpxFFAch"
 ```
 3. Initialise and start the project
 ```
